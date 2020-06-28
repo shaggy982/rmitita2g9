@@ -1,1 +1,16 @@
-Team Profile (personality tests)
+Team Profile
+
+Each of you will have produced a personal profile for Assignment 1. You are to assemble this information, reviewing it as you see fit given your feedback from Assignment 1, to produce a team profile. This should be organised into the following subsections.
+
+*****Team Name - Future Innovators
+Personal Info - one paragraph - includes name, student number, background, hobbies, IT interest and IT experience. Includes your team's chosen name?
+
+*****Team profile - test outcomes for each person in the team - all 3 tests - and our understanding of how this info may be helpful to the group.
+
+*****Ideal jobs - compare and contrast the ideal jobs for each person in the group. This may have changed due to feedback from A1.
+
+What comment elements are there, if any? What differentiates each position from the others, if anything? How similar or different are your career plans across the group?
+
+*****Tools - Setup group website & group GitHub. This facilitates production and maintenance of group artefacts, including assignment submission. May also include other reports or info, code, examples, data, images, videos, links, etc.
+
+Also need to include a report with a brief description of what has been done and including - link to group's website - link to group's repo - comments on how well the audit trail on the Git repo reflect the group's work. The latter task about comments should be done closer to the time of submission.
