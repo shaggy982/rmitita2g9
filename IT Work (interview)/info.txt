@@ -1,2 +1,19 @@
 We need to interview the professional about the space.
 Create your own documents (txt or word) suggesting some questions beyond what's asked in the rubric for A2.
+
+Notes:
+
+Our goal is to get some insight into the day-to-day working life of the professional
+30 minutes~
+
+Questions from rubric:
+
+Please tell us about your IT work. What exactly do you do?
+2. Please tell us about the industry you work in.
+3. What other kinds of work do you have to do?
+4. Who are all the different people you interact with in your work? Please tell us about them.
+5. Please tell us about your interactions with other IT professionals.
+6. What about your interactions with clients or investors?
+7. What aspects of your work do you spend most time on? Please tell us about these.
+8. Which aspects of your work do you find most challenging?
+9. Finally, can you share an example of the work you do that best captures the essence of the IT industry?
