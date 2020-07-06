@@ -1,0 +1,27 @@
+Industry Data
+
+We will need a visually appealing way to present this in the PDF report.
+
+----Chris
+Job title: Front End Web Developer
+Rank: 6th
+
+Skillset
+    IT-specific: Javascript, PHP, HTML, CSS, jQuery, SQL
+    General: communication, organisation, problem solving, team work, meeting deadlines
+
+High demand for Javascript (#2) and SQL (#1). Low-moderate demand for Website Production (#15), Full Stack Developer (#17), PHP Developer (#24).
+
+High demand for communication (#1), organisation (#3), problem solving (#2) and team work skills (#5). Lower demand for meeting deadlines (#16).
+
+Three IT skills not in my skillset:
+Java, C#, GIT
+
+Three general skills not in my skillset:
+Writing, Creativity, Research
+
+After reading this information, my opinion on my ideal job has not changed; but, I would like to become more competent in Java, VB.NET and C# to have more job opportunies available.
+
+
+
+
