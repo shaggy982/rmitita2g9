@@ -1,0 +1,21 @@
+Name:Ben Rodd
+
+Job Title: Database Administrator
+
+Rank: #29
+
+Skillset –
+
+IT-Specific: SQL, Python, Tableau, Transact SQL, Data Analysis, Data Modelling, Data Management, Data Migration, Machine Learning.
+
+General: Communication Skills, Problem Solving, Detail Orientated, Presentation Skills, Meating Deadlines, Analytical Skills.
+
+High Demand for SQL (#1), and Python (#22). High to Moderate Demand for Data Management (#44), and Data Analysis (#69). Moderate to Low Demand for Data Migration (#142), Transact SQL (#149), Data Modelling (#153), and Tableau (#171). Low Demand for Machine Learning (#185) 
+
+High Demand for Communication Skills (#1), Problem Solving (#4), and Detail Orientated (#8). Moderate Demand for Presentation Skills (#15), Analytical Skills (#17), and Meeting Deadlines (#18). 
+
+Three IT skills not in my skillset: SQL, Python, and Data Management.
+
+Three General skills not in my skillset: Problem Solving, Presentations Skills, and Analytical Skills, 
+
+With the information gathered using the Burning Glass Data my opinion on my ideal job has not changed. It has however given me a better idea of how I may need to broaden my scope of data type roles within the industry if I am going to be successful in gaining employment in the area, i.e. data engineer, data architect, data administrator etc.
