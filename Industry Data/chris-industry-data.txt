@@ -1,8 +1,3 @@
-Industry Data
-
-We will need a visually appealing way to present this in the PDF report.
-
-----Chris
 Job title: Front End Web Developer
 Rank: 6th
 
@@ -15,12 +10,14 @@ High demand for Javascript (#2) and SQL (#1). Low-moderate demand for Website Pr
 High demand for communication (#1), organisation (#3), problem solving (#2) and team work skills (#5). Lower demand for meeting deadlines (#16).
 
 Three IT skills not in my skillset:
-Java, C#, GIT
+SQL (#1), Java (#5), Microsoft C# (#6)
 
 Three general skills not in my skillset:
-Writing, Creativity, Research
+Writing (#3), Research (#11) Leadership (#12)
 
-After reading this information, my opinion on my ideal job has not changed; but, I would like to become more competent in Java, VB.NET and C# to have more job opportunies available.
+After reading this information, my opinion on my ideal job has not changed; but, I would like to become more competent in SQL, Java and C# to have more job opportunies available.
+
+Java and C# are used in software engineering roles, and competency in both of these would make my skills more appealing to a company hiring for such a role. SQL is very popular due to the foundational need for databases in every online IT solution; I would definitely like to add this to my list of skills.
 
 
 
