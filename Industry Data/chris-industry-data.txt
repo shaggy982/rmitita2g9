@@ -9,10 +9,10 @@ High demand for Javascript (#2) and SQL (#1). Low-moderate demand for Website Pr
 
 High demand for communication (#1), organisation (#3), problem solving (#2) and team work skills (#5). Lower demand for meeting deadlines (#16).
 
-Three IT skills not in my skillset:
-SQL (#1), Java (#5), Microsoft C# (#6)
+Three IT skills not in my required skillset:
+Java (#5), Microsoft C# (#6), .NET Programming (#8)
 
-Three general skills not in my skillset:
+Three general skills not in my required skillset:
 Writing (#3), Research (#11) Leadership (#12)
 
 After reading this information, my opinion on my ideal job has not changed; but, I would like to become more competent in SQL, Java and C# to have more job opportunies available.
