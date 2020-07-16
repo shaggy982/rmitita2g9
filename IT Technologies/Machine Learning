@@ -1,0 +1,96 @@
+
+Machine Learning
+  
+(Foote, 2019)
+What is Machine Learning?
+Machine learning (ML) uses data to analyse and predict an outcome of a problem without being explicitly programmed to do so. It “is an extension of Artificial Intelligence (AI) and differentiate from traditional programming by enabling algorithms imputed on its extensive database to learn, improve and predict results”  (What is Machine Learning? A definition - Expert System, 2017). B-Cube.ai (2020) complements “Unlike traditional algorithms, they have the incredible novelty of being able to learn from their past experiences. They seek a solution to the problem assigned to them by following several possible paths and moving forward with the result that gave the most successful result.”  It works on a predictive model which the more data that is fed into it, the more accurate predictions would be.
+
+The name “Machine Learning” was first catalogued by Arthur Samuel who worked at IBM in 1952. Samuel built a model program to calculate the best possibilities of either side winning a checkers game by the minimax strategy, which would predict which movement would minimise its maximum chance of loss. The result would eventually be the creation of the minimax algorithm (Foote, 2019) . Hurwitz and Kirsch (2018) reiterate that “a model is the output generated when you train your machine learning algorithm with data”  and after training, when an input is provided to the model, a prediction will be given as an output. Finalising, Machine learning “it’s a team process that requires data scientists, data engineers, business analysts, and business leaders to collaborate” (Hurwitz and Kirsch 2018) . 
+
+.
+
+
+
+Current state of the art 
+
+At this stage it is hard to mensurate the exact state of the art where machine learning is, however, from natural human ambition and for necessity, it is understandable that ML is still in early development. It has been gaining traction in the last few years due to advancement in computer processors making these more powerful, more affordable and more compact at the same time as the further development of technologies related to big data, parallel processing and other ancillary systems. 
+There are different levels of learning levels: Supervised, Unsupervised, Reinforcement and Deep Learning/ Neural Networks.
+ 
+(Hurwitz and Kirsh, 2018)
+
+Supervised learning is based on an established set of data which is classified. As noted by Hurwitz and Kirsch (2018) , it can match categories of labelled data which can be used to recognise millions of images of a specific object and then the system’s attributes will recognise similar images of that particular object. Supervised learning also processes continuous data which, when used as regression, can identify patterns and characteristics and predict future outcomes such as weather forecast.
+Unsupervised learning will work with algorithms segmenting data into clusters; these are usually used in mass data where it is not viable for an analyst to detect such as spam emails and to identify patterns of new diseases logged in different locations. These clusters are highly used in social media to classify large amounts of data entered by millions of users at the same time. Unsupervised learning is a step on the way to supervised learning (Hurwitz and Kirsch 2018) .
+Reinforcement learning, according to Hurwitz and Kirsch (2018) , is based on behaviour set by a trial and error, objectively seeking for an award in the algorithm. The algorithm is configured to identify mistakes and find new ways to fulfil an objective. It is used in self-driving cars where the system needs to make a massive number of decisions based on the information being supplied in real-time and without predictability. The algorithm needs to get the historical successful and wrongful data and then make a decision based on newly fed data to predict an outcome creating its own set of behaviours.
+Neural networks have three or more layers with thousands of nodes densely interconnected. 
+Deep learning happens when there are many hidden layers of nodes inside a neural network being able to solve more complex problems. Often used to learn patterns from unstructured data such as voice and image recognition, tracking movements of suspects, machine malfunction, among others (Hurwitz and Kirsch 2018) .
+
+
+ 
+(Xing and Du, 2018) 
+
+
+What can be done now and in the future?
+
+Nowadays, one example of the extensive uses of this technology is by the financial systems to detect fraud such as suspicious transactions in a credit card. It is done by the algorithms within the systems analysing historical data from their users such as spending habits, locations and values. 
+The reach of this technology is unimaginable as the more other programming activities and hardware capacity increases, faster the progress will reach machine learning and consequently being absorbed by Artificial Intelligence. Prototypes are continually being developed, and these vary from a range of industries such as health with prosthetic limbs which respond to users will via electric pulses captured from muscles,  accurately diagnosing rare diseases, among others. The most significant part of machine learning on the medium term, would be developing into Natural Language Processing (NLP) which is a bridge between humans and machines where they could communicate via voice or text.
+
+
+
+
+
+
+
+What technological or other developments made it possible?
+
+
+ 
+(Newman, 2019) 
+
+
+Python, according to Newman (2019) , is regarded as the primary language for machine learning. High-level languages such as Python, are more comfortable for humans to read and understand their coding; they are more versatile, clean and organised. Other tools which can also add value are R, Java, C++ as well as Linux, TensorFlow, Spark and Keras. Other vital events which can be credited to the further development of these technologies are related to cloud systems and the possibility of utilising compute processing clusters that have made it possible to analyse an immense amount of data in a fraction amount of time. 
+
+  
+(Reinstein, 2018)
+
+
+Potential impact of this development
+
+As it is the case with every innovation, there will always have positive and negative outcomes from the advent of machine learning in people’s lives. While this technology evolves, financial transactions will get more secure. It will be harder for criminals to hide, as face recognition cameras get more common in the urban centres. It may be found that advertising will be more than ever targeted for individual’s tastes and shopping recommendations for consumers will get more accurate. On the negative side, individual’s images and voice may be misused; privacy will be more limited and the interference of government and private entities in private lives more frequent. 
+The way people interact with machines will change dramatically, as machines learn their behaviours, the masses may become more dependant on information and decisions instructed by their gadgets. On the other hand, machine learning will increase the quality of life for a range of people who have some level of disability and people who suffers mental health problems and loneliness with the advancement of NLP.  
+Anyone who lives in a modern society will be, to a certain degree, affected by the incremental presence of machine learning and artificial intelligence in their lives. Software companies who gather an incredible amount of data will have even more power as knowledge of people’s location, contacts and behaviours. This information will give them a tremendous advantage compared to companies which do not have the same means.
+Since the industrial revolution, all new technologies have created substantial changes in the job market. As with previous technological evolutions, the machines will eventually replace lower-skilled jobs, and higher-skilled assignments will be designed to cater to the new needs. Some example of sectors which are believed to have a higher labour deficit are related to manually entering data, document searching, supermarket cashiers and train and truck drivers.  The information technology sector will demand more professionals to create new codes and algorithms which can further develop these technologies giving competitive businesses an edge.
+
+
+How machine learning affects my daily life
+
+My daily life has a lot of elements of machine learning, from the streaming apps such as Spotify, YouTube, Amazon, eBay recommending products and entertainment media that tends to fit my tastes. To uber, which learned how often I was at the airport and started offering to book my next ride to the terminal at the time I needed without my input. Another way systems are getting smarter is GPS devices advising route changes due to issues on my original plan and so on. 
+As machine learning develops, I understand it will take less time to find an exact product when searching for it; my user experience may be enhanced by being suggested precisely or as close as possible to what I intend to acquire. As a society, we continuously input data in our devices and this information is being stored by companies which, in turn, can sell my customer profile to an advertiser. A prospective seller, as a result, may provide the service or product that I am looking for with the most appropriate time and cost giving me free time to concentrate on other more critical tasks.
+Mostly friends and family will benefit from the advancement of ML as they will have access to more personalised content and gatherings may be facilitated by devices being able to refer places which are more appealing to most to meet. Older citizens may struggle using technology more than youths. However, prediction tools may offer more user-friendly devices which can cater to this demographic better.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
